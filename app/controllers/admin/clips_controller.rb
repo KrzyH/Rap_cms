@@ -1,2 +1,2 @@
-class Admin::ClipsController < ApplicationController
+class Admin::ClipsController < Admin::ApplicationController
 end

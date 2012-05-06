@@ -1,2 +1,6 @@
-class Admin::HomeController < ApplicationController
+class Admin::HomeController < Admin::ApplicationController
+
+	def index
+		
+	end
 end
